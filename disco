@@ -1,6 +1,8 @@
 #!/usr/bin/python
 """
-omg disco
+REQUIRES PYGAME
+
+Turns a Launchpad into a disco floor similar to the effect in Crypt of the Necrodancer
 """
 import time
 import sys
