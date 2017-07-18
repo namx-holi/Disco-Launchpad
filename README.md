@@ -1,2 +1,4 @@
 # Disco-Launchpad
-lets you turn launchpad into a disco floor through command line
+Written in Python2.7 and using PyGame
+
+Lets you turn a Launchpad into a disco floor that is similar to the effect used in Crypt of the Necrodancer
